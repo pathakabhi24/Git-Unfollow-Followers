@@ -31,3 +31,6 @@ unfollowEveryone('<username>', '<password>', function(error) {
   console.log('done.');
 });
 ```
+
+
+this repo will follow for you on any github account or unfollowed you from that account
